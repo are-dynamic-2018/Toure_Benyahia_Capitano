@@ -24,3 +24,5 @@ Sources intéressantes :
 
 http://archives.cg37.fr/UploadFile/GED/X/1424251764.pdf /*Historique hommes/épidemies*\
 https://www.laboratoires-maymat.fr/contenu/fckn/decouverte%20du%20virus%20de%20la%20%20GRIPPE.pdf Historique grippe
+
+https://www.bag.admin.ch/bag/fr/home/themen/mensch-gesundheit/uebertragbare-krankheiten/ausbrueche-epidemien-pandemien/vergangene-epidemien-pandemien/grippepandemie.html  Pandémie de grippe historique
