@@ -23,4 +23,4 @@ Pour la semaine prochaine , on aimerait se rensigner davantage sur les données 
 Sources intéressantes :
 
 http://archives.cg37.fr/UploadFile/GED/X/1424251764.pdf /*Historique hommes/épidemies*\
-https://www.fares.be/fr/ligne-du-temps-tuberculose/ historique de la tuberculose 
+https://www.laboratoires-maymat.fr/contenu/fckn/decouverte%20du%20virus%20de%20la%20%20GRIPPE.pdf Historique grippe
