@@ -2,7 +2,7 @@
 
 Benyahia Sami
 Toure Momar
-Capitanio Alexis
+Capitano Alexis
 
 Quelle est l'influence des comportements humains face à une épidemie ?
 
