@@ -5,3 +5,6 @@
 
 06/03/18: - Visualisation des données: On a décidé la bibliothèque plotly pour la visualisation des données. le premier problème recontré était de pouvoir paramètrer le proxy; ce qui a été résolu sauf qu'on a aussi vu que l'utilisation de la bibliothèque plotly est conditionné par la création d'un compte qui se trouve être payant.
          - on a trouvé qu'il y a la bibliothèque folium qui permet aussi de faire la visualisation.
+
+
+13/03/18 : améloration et mise en relation du code et de la carte. reproduction d'un model réaliste de contamination et de guérison de la grippe. 
