@@ -27,6 +27,8 @@ https://www.laboratoires-maymat.fr/contenu/fckn/decouverte%20du%20virus%20de%20l
 
 https://www.bag.admin.ch/bag/fr/home/themen/mensch-gesundheit/uebertragbare-krankheiten/ausbrueche-epidemien-pandemien/vergangene-epidemien-pandemien/grippepandemie.html  Pandémie de grippe historique
 http://www.who.int/topics/influenza/fr/ mine d'or wlh
+http://folium.readthedocs.io/en/latest/quickstart.html
+https://pandas.pydata.org/
 
 
 bibliothèques utilisées pour la visualisation: folium et pandas : https://github.com/python-visualization/folium
