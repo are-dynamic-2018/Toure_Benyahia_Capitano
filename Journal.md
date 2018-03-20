@@ -8,3 +8,10 @@
 
 
 13/03/18 : améloration et mise en relation du code et de la carte. reproduction d'un model réaliste de contamination et de guérison de la grippe. 
+
+21/03/18 : Au niveau du modele :
+Tentatives de rapprochement entre le modele et la réalité (graphique disponible ici https://www.bag.admin.ch/bag/fr/home/themen/mensch-gesundheit/uebertragbare-krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/saisonale-grippe---lagebericht-schweiz.html). Cependant une loi binomiale ne semble pas adaptée à une guérison donc je vais chercher une alternative pour la semaine prochaine.
+
+Au niveau de la visualisation :
+
+Amelioration de la carte, désormais lorsque l'on clique sur un pays un popup apparait dans lequel nous allons ajouter un graph circulaire présentant les différentes données du pays.
